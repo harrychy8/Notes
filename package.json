@@ -1,0 +1,20 @@
+{
+  "name": "handesomenotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "tedious": "^2.6.1",
+    "sequelize": "^4.37.8",
+    "body-parser": "^1.18.3",
+    "pbkdf2": "^3.0.16",
+    "uuid": "^3.2.1"
+  }
+}
